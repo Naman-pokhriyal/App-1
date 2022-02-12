@@ -6,7 +6,7 @@
      <li><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> React Native</li>
 </ul>
 <br/>
-<p align=center>A very minimalistic look ToDo App made completely with React Native. It stores all the tasks locally and permanently until the task is discardded by the user. The perfect app to get started with React Native.</p>
+<p align=center>A very minimalistic look ToDo App made completely with React Native. It stores all the tasks locally and permanently until the task is discarded by the user. The perfect app to get started with React Native.</p>
 <br/>
 <br/>
 
