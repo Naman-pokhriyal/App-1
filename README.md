@@ -1,6 +1,6 @@
 #ToDo App
 
-<h1 align=center >TComplete To-Do App</h1>
+<h1 align=center >To-Do App</h1>
 
 <ul><h3>Languages and tools used :</h3>
      <li><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> React Native</li>
